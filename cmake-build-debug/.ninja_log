@@ -1,0 +1,18 @@
+# ninja log v6
+9	266	7686890827845180	CMakeFiles/gmod_dumper.dir/sdk/utils/md5_check_sum.cpp.obj.ddi	2f0ef590c9e8339d
+7	345	7686892942384304	CMakeFiles/gmod_dumper.dir/sdk/interfaces.cpp.obj.ddi	c4e62fa4e812b21b
+10	2526	7686914257029140	CMakeFiles/gmod_dumper.dir/sdk/utils/netvars.cpp.obj	67ccecef510ae892
+8	382	7686897571216057	CMakeFiles/gmod_dumper.dir/sdk/utils/netvars.cpp.obj.ddi	9c6609de2a58e1b1
+382	412	7686897574960287	CMakeFiles/gmod_dumper.dir/library.cpp.obj.modmap	7c94d0972d7f4d1f
+1	99	7686915009155879	build.ninja	a4bda0c60a26337f
+3	369	7686897571160876	CMakeFiles/gmod_dumper.dir/library.cpp.obj.ddi	f1af7a6be1a3a2a0
+382	412	7686897574960287	C:/Users/prest/Desktop/projects/c++/GMOD dumper/cmake-build-debug/CMakeFiles/gmod_dumper.dir/CXXModules.json	7c94d0972d7f4d1f
+382	412	7686897574960287	CMakeFiles/gmod_dumper.dir/CXX.dd	7c94d0972d7f4d1f
+382	412	7686897574960287	CMakeFiles/gmod_dumper.dir/sdk/interfaces.cpp.obj.modmap	7c94d0972d7f4d1f
+382	412	7686897574960287	CMakeFiles/gmod_dumper.dir/sdk/utils/md5_check_sum.cpp.obj.modmap	7c94d0972d7f4d1f
+382	412	7686897574960287	CMakeFiles/gmod_dumper.dir/sdk/utils/netvars.cpp.obj.modmap	7c94d0972d7f4d1f
+10	484	7686898616078911	CMakeFiles/gmod_dumper.dir/sdk/utils/md5_check_sum.cpp.obj	798ff7da4d1b2f21
+2	1003	7686906604287115	CMakeFiles/gmod_dumper.dir/sdk/interfaces.cpp.obj	251c91a9e7deffac
+4	1953	7686914256969111	CMakeFiles/gmod_dumper.dir/library.cpp.obj	9e4c9ea766a9afd
+2526	2701	7686914282198073	C:/Users/prest/Desktop/projects/c++/GMOD dumper/bin/libdumper.lib	1f8f161b94ea7bb7
+2526	2701	7686914282198073	C:/Users/prest/Desktop/projects/c++/GMOD dumper/bin/libdumper.dll	1f8f161b94ea7bb7

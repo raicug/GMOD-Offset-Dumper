@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\gmod_dumper.dir\\sdk\\utils\\md5_check_sum.cpp.obj",
+            "outputs": [
+                "C:\\Users\\prest\\Desktop\\projects\\c++\\GMOD dumper\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\gmod_dumper.dir\\sdk\\utils\\md5_check_sum.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

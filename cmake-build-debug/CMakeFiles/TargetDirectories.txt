@@ -1,0 +1,3 @@
+C:/Users/prest/Desktop/projects/c++/GMOD dumper/cmake-build-debug/CMakeFiles/gmod_dumper.dir
+C:/Users/prest/Desktop/projects/c++/GMOD dumper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prest/Desktop/projects/c++/GMOD dumper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

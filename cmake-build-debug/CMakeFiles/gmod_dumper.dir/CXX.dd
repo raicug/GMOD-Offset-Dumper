@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\gmod_dumper.dir\library.cpp.obj: dyndep
+
+build CMakeFiles\gmod_dumper.dir\sdk\interfaces.cpp.obj: dyndep
+
+build CMakeFiles\gmod_dumper.dir\sdk\utils\md5_check_sum.cpp.obj: dyndep
+
+build CMakeFiles\gmod_dumper.dir\sdk\utils\netvars.cpp.obj: dyndep
+
