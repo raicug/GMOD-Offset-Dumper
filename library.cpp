@@ -56,16 +56,16 @@ void entry_thread(HMODULE hModule) {
     netvar_manager::init_netvar_manager();
 
     std::cout << "[INFO] Dump complete. Output also saved to netvars_dump.txt\n";
-    netvar_manager::dump_netvars_to_file("C:\\R-GMOD\\Dumps");
+    netvar_manager::dump_netvars_to_file("C:\\GMOD-Dumper");
 
-    MessageBoxA(NULL, "dump complete", "GMod NetVar Dumper", MB_ICONINFORMATION);
+    MessageBoxA(NULL, "dump complete", "NetVar Dumper", MB_ICONINFORMATION);
 
     std::cout << "[INFO] Press any key to close console...\n";
     std::cin.get();
 
-    FreeConsole(); // Clean up if desired
+    FreeConsole();
 
-    uninject_dll(hModule);
+    uninject_dll(hModule); // doesn't really work (IDC!)
 }
 
 extern "C" {
@@ -73,7 +73,7 @@ extern "C" {
         if (ul_reason_for_call == DLL_PROCESS_ATTACH) {
             DisableThreadLibraryCalls(hModule);
 
-            MessageBoxA(NULL, "GMod NetVar Dumper injected", "GMod NetVar Dumper", MB_ICONINFORMATION);
+            MessageBoxA(NULL, "NetVar Dumper injected", "NetVar Dumper", MB_ICONINFORMATION);
 
             CreateThread(nullptr, 0, (LPTHREAD_START_ROUTINE)entry_thread, nullptr, 0, nullptr);
         }
